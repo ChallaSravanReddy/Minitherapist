@@ -1,0 +1,470 @@
+{
+    "sad": {
+        "validations": [
+            "That sounds really tough...",
+            "I hear you, and I'm here with you.",
+            "I can feel the weight of what you're going through.",
+            "Your pain is real, and it matters.",
+            "I'm so sorry you're feeling this way.",
+            "That must be incredibly difficult.",
+            "I understand how heavy this feels.",
+            "Your feelings are completely valid."
+        ],
+        "empathy": [
+            "You're not alone in this.",
+            "I'm right here with you.",
+            "I'm holding space for you.",
+            "You don't have to carry this by yourself.",
+            "I'm here to listen, always.",
+            "Your heart deserves to be heard.",
+            "I'm walking alongside you through this.",
+            "You matter, and so do your feelings."
+        ],
+        "advice": [
+            "Take it one moment at a time.",
+            "Be gentle with yourself today.",
+            "Allow yourself to feel without judgment.",
+            "Remember that it's okay to not be okay.",
+            "Try to do one small thing that brings you comfort.",
+            "Reach out to someone you trust when you're ready.",
+            "Give yourself permission to rest.",
+            "Small steps forward are still progress."
+        ],
+        "spiritual": [
+            "Trust that this too shall pass.",
+            "Even in darkness, there is light waiting to emerge.",
+            "Your spirit is stronger than this moment.",
+            "The universe holds you, even when you feel alone.",
+            "This pain is shaping you into someone even more beautiful.",
+            "Sometimes the soul needs to feel deeply to heal deeply.",
+            "You are held by something greater than this sadness.",
+            "Every ending makes way for a new beginning."
+        ],
+        "closers": [
+            "You're stronger than you think. 💙",
+            "Sending you warmth and light.",
+            "I believe in your ability to get through this.",
+            "You are worthy of love and peace.",
+            "Tomorrow is a new day, full of possibility.",
+            "You are enough, just as you are.",
+            "I'm here whenever you need me.",
+            "Your story isn't over yet. 🌟"
+        ]
+    },
+    "stressed": {
+        "validations": [
+            "That sounds incredibly overwhelming.",
+            "I can sense how much pressure you're under.",
+            "It's completely understandable to feel this way.",
+            "You're carrying a lot right now.",
+            "I hear how stressed you are.",
+            "That's a lot to handle.",
+            "Your stress is valid and real.",
+            "I can feel the tension you're experiencing."
+        ],
+        "empathy": [
+            "You're not alone in feeling this way.",
+            "I'm here with you through this.",
+            "It's okay to feel overwhelmed.",
+            "You don't have to have it all figured out.",
+            "I'm here to support you.",
+            "Your well-being matters.",
+            "I see how hard you're trying.",
+            "You're doing the best you can."
+        ],
+        "advice": [
+            "Take a deep breath. Just one.",
+            "Try to focus on just the next step, not the whole staircase.",
+            "It's okay to ask for help.",
+            "Consider taking a short break if you can.",
+            "Write down what's on your mind to clear some space.",
+            "Remember that you can only do one thing at a time.",
+            "Prioritize what truly needs your attention right now.",
+            "Give yourself permission to let go of what you can't control."
+        ],
+        "spiritual": [
+            "You have the strength within you to handle this.",
+            "Trust the process, even when it's uncomfortable.",
+            "The universe never gives you more than you can handle.",
+            "In stillness, you'll find your center again.",
+            "This pressure is temporary, but your spirit is eternal.",
+            "Breathe. The present moment is all you need to manage.",
+            "You are more resilient than you know.",
+            "Peace is always available within you."
+        ],
+        "closers": [
+            "You've got this. 💪",
+            "Take it one breath at a time.",
+            "I believe in your resilience.",
+            "You're stronger than this stress.",
+            "You will get through this.",
+            "Be kind to yourself today.",
+            "I'm here whenever you need to talk.",
+            "You're doing better than you think. ✨"
+        ]
+    },
+    "angry": {
+        "validations": [
+            "Your anger is valid.",
+            "I understand why you're feeling this way.",
+            "That would make anyone upset.",
+            "You have every right to feel angry.",
+            "I hear your frustration.",
+            "That sounds really unfair.",
+            "Your feelings are justified.",
+            "I can sense how upset you are."
+        ],
+        "empathy": [
+            "I'm here to listen without judgment.",
+            "Your anger deserves to be acknowledged.",
+            "It's okay to feel this way.",
+            "I'm here with you through this.",
+            "You don't have to suppress what you're feeling.",
+            "I see you, and I hear you.",
+            "Your emotions are important.",
+            "I'm holding space for your anger."
+        ],
+        "advice": [
+            "Take some deep breaths to help calm your nervous system.",
+            "It's okay to step away from the situation for a moment.",
+            "Try to express your anger in a healthy way.",
+            "Consider what you need right now to feel better.",
+            "It's okay to set boundaries with people who upset you.",
+            "Channel this energy into something constructive when you're ready.",
+            "Remember that you can't control others, only your response.",
+            "Give yourself time to cool down before making decisions."
+        ],
+        "spiritual": [
+            "Anger is energy - use it wisely.",
+            "This feeling will pass, like clouds across the sky.",
+            "Your peace is more important than being right.",
+            "Let go of what you cannot change.",
+            "Forgiveness is a gift you give yourself.",
+            "You have the power to choose your response.",
+            "This moment does not define you.",
+            "Breathe through the fire, and find your calm center."
+        ],
+        "closers": [
+            "You deserve peace. 🕊️",
+            "I'm here for you.",
+            "Your feelings matter.",
+            "You have the strength to move through this.",
+            "Take care of yourself.",
+            "You're more than this moment of anger.",
+            "I believe in your ability to find peace.",
+            "Sending you calming energy. 🌊"
+        ]
+    },
+    "lonely": {
+        "validations": [
+            "Loneliness is such a difficult feeling.",
+            "I hear how alone you're feeling.",
+            "That must be really painful.",
+            "Your need for connection is so human.",
+            "I understand how isolating this feels.",
+            "That sounds incredibly lonely.",
+            "Your feelings are completely valid.",
+            "I can sense how much you're hurting."
+        ],
+        "empathy": [
+            "You're not alone, even though it feels that way.",
+            "I'm here with you right now.",
+            "I see you, and you matter.",
+            "You are worthy of connection and love.",
+            "I'm here to listen and be present with you.",
+            "You deserve to feel seen and heard.",
+            "I'm holding space for you.",
+            "Your presence in this world matters."
+        ],
+        "advice": [
+            "Try reaching out to someone, even with a simple message.",
+            "Consider joining a community or group that interests you.",
+            "Remember that connection starts with small steps.",
+            "Be kind to yourself - loneliness doesn't mean you're unlovable.",
+            "Sometimes helping others can help us feel more connected.",
+            "Try to engage in activities where you might meet like-minded people.",
+            "Remember that quality matters more than quantity in relationships.",
+            "It's okay to be vulnerable and let people in."
+        ],
+        "spiritual": [
+            "You are never truly alone - you are part of something greater.",
+            "The universe is always with you.",
+            "In solitude, you can find yourself.",
+            "You are connected to all of life.",
+            "Sometimes we need to be alone to remember who we are.",
+            "Your soul is always in communion with the divine.",
+            "You are a beloved part of the cosmic whole.",
+            "Even in isolation, you are held by love."
+        ],
+        "closers": [
+            "You are seen and valued. 💫",
+            "I'm here for you, always.",
+            "You matter more than you know.",
+            "You deserve connection and love.",
+            "You're not invisible to me.",
+            "Sending you warmth and companionship.",
+            "You are worthy of belonging.",
+            "I'm grateful you're here. 🌟"
+        ]
+    },
+    "confused": {
+        "validations": [
+            "It's okay to not have all the answers.",
+            "Confusion is a natural part of growth.",
+            "I understand how disorienting this feels.",
+            "It makes sense that you're feeling lost.",
+            "Your uncertainty is valid.",
+            "That sounds really confusing.",
+            "I hear how unclear things feel right now.",
+            "It's okay to be in this space of not knowing."
+        ],
+        "empathy": [
+            "I'm here with you in this uncertainty.",
+            "You don't have to figure it all out right now.",
+            "It's okay to be confused.",
+            "I'm here to help you think through this.",
+            "You're not alone in feeling this way.",
+            "I'm holding space for your confusion.",
+            "It's okay to take your time.",
+            "I'm here to support you as you find your way."
+        ],
+        "advice": [
+            "Try writing down your thoughts to gain clarity.",
+            "Take things one step at a time.",
+            "It's okay to ask for help or guidance.",
+            "Give yourself time to sit with the confusion.",
+            "Sometimes the answer reveals itself when we stop searching.",
+            "Trust your intuition - it knows more than you think.",
+            "Break down the big question into smaller, manageable pieces.",
+            "Remember that not knowing is part of the journey."
+        ],
+        "spiritual": [
+            "Trust the journey, even when the path is unclear.",
+            "Sometimes confusion is the doorway to wisdom.",
+            "The universe is guiding you, even when you can't see the way.",
+            "In the fog, we learn to trust our inner compass.",
+            "Not all who wander are lost.",
+            "Clarity will come in divine timing.",
+            "Your soul knows the way, even when your mind doesn't.",
+            "Embrace the mystery - it's where growth happens."
+        ],
+        "closers": [
+            "You'll find your way. 🧭",
+            "Trust yourself.",
+            "I believe in your ability to navigate this.",
+            "Clarity is coming.",
+            "You're exactly where you need to be.",
+            "I'm here to help you find your path.",
+            "Take your time - there's no rush.",
+            "You've got this. ✨"
+        ]
+    },
+    "overwhelmed": {
+        "validations": [
+            "That's so much to handle.",
+            "I can see why you're feeling overwhelmed.",
+            "Anyone would feel this way with everything you're dealing with.",
+            "You're carrying a heavy load.",
+            "I hear how much is on your plate.",
+            "That sounds completely overwhelming.",
+            "Your feelings are completely understandable.",
+            "I can sense how buried you feel."
+        ],
+        "empathy": [
+            "You're not alone in this.",
+            "I'm here with you.",
+            "It's okay to feel overwhelmed.",
+            "You don't have to do it all at once.",
+            "I see how hard you're trying.",
+            "You're doing the best you can.",
+            "I'm here to support you.",
+            "You don't have to be perfect."
+        ],
+        "advice": [
+            "Take a deep breath and focus on just one thing.",
+            "It's okay to ask for help.",
+            "Try to prioritize what absolutely must be done today.",
+            "Give yourself permission to let some things go.",
+            "Break tasks down into tiny, manageable steps.",
+            "Remember that you can only do what you can do.",
+            "It's okay to say no to new commitments.",
+            "Take a short break to reset if possible."
+        ],
+        "spiritual": [
+            "You are stronger than you know.",
+            "The universe never gives you more than you can handle.",
+            "In stillness, you'll find your strength.",
+            "One step at a time is all you need.",
+            "Trust that you have everything you need within you.",
+            "This too shall pass.",
+            "You are capable of more than you believe.",
+            "Breathe. You are held by something greater."
+        ],
+        "closers": [
+            "You've got this. 💪",
+            "Take it one moment at a time.",
+            "I believe in you.",
+            "You're stronger than this feeling.",
+            "You will get through this.",
+            "Be gentle with yourself.",
+            "I'm here whenever you need me.",
+            "You're doing amazing. 🌟"
+        ]
+    },
+    "happy": {
+        "validations": [
+            "I'm so happy to hear that!",
+            "That's wonderful!",
+            "Your joy is beautiful.",
+            "I love hearing this from you.",
+            "That's amazing!",
+            "I'm so glad you're feeling this way.",
+            "Your happiness is contagious!",
+            "That's so great to hear!"
+        ],
+        "empathy": [
+            "I'm celebrating with you!",
+            "Your happiness brings me joy.",
+            "I'm so happy for you.",
+            "You deserve this happiness.",
+            "I'm here to share in your joy.",
+            "Your light is shining bright.",
+            "I'm grateful to witness your happiness.",
+            "This is beautiful to hear."
+        ],
+        "advice": [
+            "Savor this moment.",
+            "Take time to appreciate this feeling.",
+            "Share your joy with others.",
+            "Remember this feeling for harder days.",
+            "Celebrate yourself and your wins.",
+            "Let this happiness fill you completely.",
+            "Express gratitude for this moment.",
+            "Keep doing what brings you joy."
+        ],
+        "spiritual": [
+            "Joy is your natural state.",
+            "Happiness is a gift from the universe.",
+            "Your light is meant to shine.",
+            "Gratitude multiplies blessings.",
+            "You are aligned with your highest good.",
+            "This is the universe celebrating you.",
+            "Your happiness ripples out into the world.",
+            "You are a beacon of light."
+        ],
+        "closers": [
+            "Keep shining! ✨",
+            "I'm so happy for you!",
+            "You deserve all this joy.",
+            "May this happiness continue to grow.",
+            "Your joy is a gift.",
+            "Celebrate yourself!",
+            "I'm here to share in your happiness.",
+            "You're amazing! 🌟"
+        ]
+    },
+    "worried": {
+        "validations": [
+            "I hear your worry.",
+            "It's understandable to feel anxious about this.",
+            "Your concerns are valid.",
+            "That sounds really stressful.",
+            "I can sense how worried you are.",
+            "It makes sense that you're feeling this way.",
+            "Your worry is real and important.",
+            "I understand why this is weighing on you."
+        ],
+        "empathy": [
+            "You're not alone in this worry.",
+            "I'm here with you.",
+            "It's okay to feel anxious.",
+            "I'm here to support you through this.",
+            "You don't have to carry this worry alone.",
+            "I'm holding space for your concerns.",
+            "Your feelings are important.",
+            "I'm here to listen."
+        ],
+        "advice": [
+            "Try to focus on what you can control.",
+            "Take some deep breaths to calm your nervous system.",
+            "Consider what's the worst that could happen, and how you'd handle it.",
+            "Remember that most of what we worry about never happens.",
+            "Try to stay present rather than projecting into the future.",
+            "Talk to someone you trust about your worries.",
+            "Write down your concerns to get them out of your head.",
+            "Take action on what you can, and release what you can't."
+        ],
+        "spiritual": [
+            "Trust that the universe has your back.",
+            "Worry is interest paid on trouble before it's due.",
+            "You are guided and protected.",
+            "Faith is stronger than fear.",
+            "The future is not yet written - stay present.",
+            "You have overcome every challenge so far.",
+            "Trust in the divine timing of your life.",
+            "Peace is available to you in this moment."
+        ],
+        "closers": [
+            "You're going to be okay. 🌈",
+            "I'm here for you.",
+            "Trust yourself.",
+            "You've got this.",
+            "Take it one day at a time.",
+            "I believe in you.",
+            "You're stronger than your worries.",
+            "Sending you peace and calm. 🕊️"
+        ]
+    },
+    "neutral": {
+        "validations": [
+            "I hear you.",
+            "Thanks for sharing.",
+            "I'm here with you.",
+            "That's okay.",
+            "I appreciate you checking in.",
+            "It's good to hear from you.",
+            "I'm listening.",
+            "I'm here."
+        ],
+        "empathy": [
+            "It's okay to just be.",
+            "Not every day has to be extraordinary.",
+            "I'm here for you, no matter what.",
+            "Your presence is enough.",
+            "I'm glad you're here.",
+            "It's okay to feel neutral.",
+            "I'm here to listen whenever you need.",
+            "You don't have to feel anything in particular."
+        ],
+        "advice": [
+            "Take things as they come.",
+            "Enjoy the calm moments.",
+            "It's okay to just exist sometimes.",
+            "Check in with yourself and see what you need.",
+            "Use this time to rest and recharge.",
+            "Appreciate the peace of an ordinary day.",
+            "Be present with whatever arises.",
+            "Trust your own rhythm."
+        ],
+        "spiritual": [
+            "Peace is found in acceptance.",
+            "The present moment is all there is.",
+            "Stillness is a gift.",
+            "You are exactly where you need to be.",
+            "Balance is a beautiful state.",
+            "In neutrality, there is freedom.",
+            "You are enough, just as you are.",
+            "The universe flows through you."
+        ],
+        "closers": [
+            "I'm here whenever you need me. 💙",
+            "Take care of yourself.",
+            "I'm always here to listen.",
+            "Wishing you peace.",
+            "You're doing great.",
+            "I'm here for you.",
+            "Be well. ✨",
+            "I'm just a message away. 🌟"
+        ]
+    }
+}

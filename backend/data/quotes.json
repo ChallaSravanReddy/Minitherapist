@@ -1,0 +1,492 @@
+[
+    {
+        "quote": "The mind is everything. What you think you become.",
+        "author": "Buddha",
+        "tradition": "Buddhism"
+    },
+    {
+        "quote": "You have power over your mind - not outside events. Realize this, and you will find strength.",
+        "author": "Marcus Aurelius",
+        "tradition": "Stoicism"
+    },
+    {
+        "quote": "The present moment is all you ever have.",
+        "author": "Eckhart Tolle",
+        "tradition": "Mindfulness"
+    },
+    {
+        "quote": "Peace comes from within. Do not seek it without.",
+        "author": "Buddha",
+        "tradition": "Buddhism"
+    },
+    {
+        "quote": "You are the sky. Everything else is just the weather.",
+        "author": "Pema Chödrön",
+        "tradition": "Buddhism"
+    },
+    {
+        "quote": "The obstacle is the way.",
+        "author": "Marcus Aurelius",
+        "tradition": "Stoicism"
+    },
+    {
+        "quote": "Be kind, for everyone you meet is fighting a hard battle.",
+        "author": "Plato",
+        "tradition": "Philosophy"
+    },
+    {
+        "quote": "The only way out is through.",
+        "author": "Robert Frost",
+        "tradition": "Universal Wisdom"
+    },
+    {
+        "quote": "In the midst of winter, I found there was, within me, an invincible summer.",
+        "author": "Albert Camus",
+        "tradition": "Philosophy"
+    },
+    {
+        "quote": "The wound is the place where the Light enters you.",
+        "author": "Rumi",
+        "tradition": "Sufism"
+    },
+    {
+        "quote": "You yourself, as much as anybody in the entire universe, deserve your love and affection.",
+        "author": "Buddha",
+        "tradition": "Buddhism"
+    },
+    {
+        "quote": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+        "author": "Ralph Waldo Emerson",
+        "tradition": "Transcendentalism"
+    },
+    {
+        "quote": "The soul always knows what to do to heal itself. The challenge is to silence the mind.",
+        "author": "Caroline Myss",
+        "tradition": "Spiritual Psychology"
+    },
+    {
+        "quote": "When you realize nothing is lacking, the whole world belongs to you.",
+        "author": "Lao Tzu",
+        "tradition": "Taoism"
+    },
+    {
+        "quote": "The quieter you become, the more you can hear.",
+        "author": "Ram Dass",
+        "tradition": "Spiritual Wisdom"
+    },
+    {
+        "quote": "Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it.",
+        "author": "Rumi",
+        "tradition": "Sufism"
+    },
+    {
+        "quote": "We are not human beings having a spiritual experience. We are spiritual beings having a human experience.",
+        "author": "Pierre Teilhard de Chardin",
+        "tradition": "Christian Mysticism"
+    },
+    {
+        "quote": "The privilege of a lifetime is to become who you truly are.",
+        "author": "Carl Jung",
+        "tradition": "Psychology"
+    },
+    {
+        "quote": "Everything that irritates us about others can lead us to an understanding of ourselves.",
+        "author": "Carl Jung",
+        "tradition": "Psychology"
+    },
+    {
+        "quote": "The best way out is always through.",
+        "author": "Helen Keller",
+        "tradition": "Universal Wisdom"
+    },
+    {
+        "quote": "You are not a drop in the ocean. You are the entire ocean in a drop.",
+        "author": "Rumi",
+        "tradition": "Sufism"
+    },
+    {
+        "quote": "The only journey is the one within.",
+        "author": "Rainer Maria Rilke",
+        "tradition": "Poetry/Philosophy"
+    },
+    {
+        "quote": "Suffering is not holding you. You are holding suffering.",
+        "author": "Buddha",
+        "tradition": "Buddhism"
+    },
+    {
+        "quote": "The cave you fear to enter holds the treasure you seek.",
+        "author": "Joseph Campbell",
+        "tradition": "Mythology"
+    },
+    {
+        "quote": "Between stimulus and response there is a space. In that space is our power to choose our response.",
+        "author": "Viktor Frankl",
+        "tradition": "Psychology"
+    },
+    {
+        "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+        "author": "Nelson Mandela",
+        "tradition": "Universal Wisdom"
+    },
+    {
+        "quote": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+        "author": "Buddha",
+        "tradition": "Buddhism"
+    },
+    {
+        "quote": "The only thing that is ultimately real about your journey is the step that you are taking at this moment.",
+        "author": "Eckhart Tolle",
+        "tradition": "Mindfulness"
+    },
+    {
+        "quote": "Your vision will become clear only when you can look into your own heart.",
+        "author": "Carl Jung",
+        "tradition": "Psychology"
+    },
+    {
+        "quote": "The universe is not outside of you. Look inside yourself; everything that you want, you already are.",
+        "author": "Rumi",
+        "tradition": "Sufism"
+    },
+    {
+        "quote": "When we are no longer able to change a situation, we are challenged to change ourselves.",
+        "author": "Viktor Frankl",
+        "tradition": "Psychology"
+    },
+    {
+        "quote": "The spiritual journey is individual, highly personal. It can't be organized or regulated.",
+        "author": "Ram Dass",
+        "tradition": "Spiritual Wisdom"
+    },
+    {
+        "quote": "Your pain is the breaking of the shell that encloses your understanding.",
+        "author": "Kahlil Gibran",
+        "tradition": "Poetry/Philosophy"
+    },
+    {
+        "quote": "The most beautiful people are those who have known defeat, suffering, struggle, loss, and have found their way out of the depths.",
+        "author": "Elisabeth Kübler-Ross",
+        "tradition": "Psychology"
+    },
+    {
+        "quote": "Happiness is not something ready made. It comes from your own actions.",
+        "author": "Dalai Lama",
+        "tradition": "Buddhism"
+    },
+    {
+        "quote": "The only way to make sense out of change is to plunge into it, move with it, and join the dance.",
+        "author": "Alan Watts",
+        "tradition": "Zen Philosophy"
+    },
+    {
+        "quote": "You are never alone. You are eternally connected with everyone.",
+        "author": "Amit Ray",
+        "tradition": "Spiritual Wisdom"
+    },
+    {
+        "quote": "The deeper that sorrow carves into your being, the more joy you can contain.",
+        "author": "Kahlil Gibran",
+        "tradition": "Poetry/Philosophy"
+    },
+    {
+        "quote": "Let go of what has passed. Let go of what may come. Let go of what is happening now. Don't try to figure anything out.",
+        "author": "Tilopa",
+        "tradition": "Buddhism"
+    },
+    {
+        "quote": "The truth is that our finest moments are most likely to occur when we are feeling deeply uncomfortable, unhappy, or unfulfilled.",
+        "author": "M. Scott Peck",
+        "tradition": "Psychology"
+    },
+    {
+        "quote": "You are the universe experiencing itself.",
+        "author": "Alan Watts",
+        "tradition": "Zen Philosophy"
+    },
+    {
+        "quote": "The only lasting beauty is the beauty of the heart.",
+        "author": "Rumi",
+        "tradition": "Sufism"
+    },
+    {
+        "quote": "Everything is energy and that's all there is to it. Match the frequency of the reality you want.",
+        "author": "Albert Einstein",
+        "tradition": "Science/Philosophy"
+    },
+    {
+        "quote": "Your sacred space is where you can find yourself again and again.",
+        "author": "Joseph Campbell",
+        "tradition": "Mythology"
+    },
+    {
+        "quote": "The meaning of life is to find your gift. The purpose of life is to give it away.",
+        "author": "Pablo Picasso",
+        "tradition": "Universal Wisdom"
+    },
+    {
+        "quote": "Silence is the language of God, all else is poor translation.",
+        "author": "Rumi",
+        "tradition": "Sufism"
+    },
+    {
+        "quote": "The only impossible journey is the one you never begin.",
+        "author": "Tony Robbins",
+        "tradition": "Motivational"
+    },
+    {
+        "quote": "What you seek is seeking you.",
+        "author": "Rumi",
+        "tradition": "Sufism"
+    },
+    {
+        "quote": "The secret of change is to focus all of your energy not on fighting the old, but on building the new.",
+        "author": "Socrates",
+        "tradition": "Philosophy"
+    },
+    {
+        "quote": "Your heart knows the way. Run in that direction.",
+        "author": "Rumi",
+        "tradition": "Sufism"
+    },
+    {
+        "quote": "The moment you accept what troubles you've been given, the door will open.",
+        "author": "Rumi",
+        "tradition": "Sufism"
+    },
+    {
+        "quote": "Don't grieve. Anything you lose comes round in another form.",
+        "author": "Rumi",
+        "tradition": "Sufism"
+    },
+    {
+        "quote": "The soul has been given its own ears to hear things the mind does not understand.",
+        "author": "Rumi",
+        "tradition": "Sufism"
+    },
+    {
+        "quote": "Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.",
+        "author": "Rumi",
+        "tradition": "Sufism"
+    },
+    {
+        "quote": "The garden of the world has no limits, except in your mind.",
+        "author": "Rumi",
+        "tradition": "Sufism"
+    },
+    {
+        "quote": "Let yourself be silently drawn by the strange pull of what you really love. It will not lead you astray.",
+        "author": "Rumi",
+        "tradition": "Sufism"
+    },
+    {
+        "quote": "The cure for pain is in the pain.",
+        "author": "Rumi",
+        "tradition": "Sufism"
+    },
+    {
+        "quote": "Raise your words, not voice. It is rain that grows flowers, not thunder.",
+        "author": "Rumi",
+        "tradition": "Sufism"
+    },
+    {
+        "quote": "You were born with wings, why prefer to crawl through life?",
+        "author": "Rumi",
+        "tradition": "Sufism"
+    },
+    {
+        "quote": "Stop acting so small. You are the universe in ecstatic motion.",
+        "author": "Rumi",
+        "tradition": "Sufism"
+    },
+    {
+        "quote": "The very center of your heart is where life begins - the most beautiful place on earth.",
+        "author": "Rumi",
+        "tradition": "Sufism"
+    },
+    {
+        "quote": "Set your life on fire. Seek those who fan your flames.",
+        "author": "Rumi",
+        "tradition": "Sufism"
+    },
+    {
+        "quote": "When you do things from your soul, you feel a river moving in you, a joy.",
+        "author": "Rumi",
+        "tradition": "Sufism"
+    },
+    {
+        "quote": "The wound is where the light enters you.",
+        "author": "Rumi",
+        "tradition": "Sufism"
+    },
+    {
+        "quote": "Don't be satisfied with stories, how things have gone with others. Unfold your own myth.",
+        "author": "Rumi",
+        "tradition": "Sufism"
+    },
+    {
+        "quote": "Let the beauty we love be what we do.",
+        "author": "Rumi",
+        "tradition": "Sufism"
+    },
+    {
+        "quote": "The quieter you become, the more you are able to hear.",
+        "author": "Rumi",
+        "tradition": "Sufism"
+    },
+    {
+        "quote": "Where there is ruin, there is hope for a treasure.",
+        "author": "Rumi",
+        "tradition": "Sufism"
+    },
+    {
+        "quote": "Forget safety. Live where you fear to live. Destroy your reputation. Be notorious.",
+        "author": "Rumi",
+        "tradition": "Sufism"
+    },
+    {
+        "quote": "Goodbyes are only for those who love with their eyes. Because for those who love with heart and soul there is no such thing as separation.",
+        "author": "Rumi",
+        "tradition": "Sufism"
+    },
+    {
+        "quote": "The lion is most handsome when looking for food.",
+        "author": "Rumi",
+        "tradition": "Sufism"
+    },
+    {
+        "quote": "Be grateful for whoever comes, because each has been sent as a guide from beyond.",
+        "author": "Rumi",
+        "tradition": "Sufism"
+    },
+    {
+        "quote": "Knock, and He'll open the door. Vanish, and He'll make you shine like the sun. Fall, and He'll raise you to the heavens.",
+        "author": "Rumi",
+        "tradition": "Sufism"
+    },
+    {
+        "quote": "Everything in the universe is within you. Ask all from yourself.",
+        "author": "Rumi",
+        "tradition": "Sufism"
+    },
+    {
+        "quote": "The breeze at dawn has secrets to tell you. Don't go back to sleep.",
+        "author": "Rumi",
+        "tradition": "Sufism"
+    },
+    {
+        "quote": "Travel brings power and love back into your life.",
+        "author": "Rumi",
+        "tradition": "Sufism"
+    },
+    {
+        "quote": "If you are irritated by every rub, how will your mirror be polished?",
+        "author": "Rumi",
+        "tradition": "Sufism"
+    },
+    {
+        "quote": "The art of knowing is knowing what to ignore.",
+        "author": "Rumi",
+        "tradition": "Sufism"
+    },
+    {
+        "quote": "Sell your cleverness and buy bewilderment.",
+        "author": "Rumi",
+        "tradition": "Sufism"
+    },
+    {
+        "quote": "I want to sing like the birds sing, not worrying about who hears or what they think.",
+        "author": "Rumi",
+        "tradition": "Sufism"
+    },
+    {
+        "quote": "Be empty of worrying. Think of who created thought.",
+        "author": "Rumi",
+        "tradition": "Sufism"
+    },
+    {
+        "quote": "Why should I be unhappy? Every parcel of my being is in full bloom.",
+        "author": "Rumi",
+        "tradition": "Sufism"
+    },
+    {
+        "quote": "Respond to every call that excites your spirit.",
+        "author": "Rumi",
+        "tradition": "Sufism"
+    },
+    {
+        "quote": "Let yourself be drawn by the stronger pull of that which you truly love.",
+        "author": "Rumi",
+        "tradition": "Sufism"
+    },
+    {
+        "quote": "When I run after what I think I want, my days are a furnace of stress and anxiety.",
+        "author": "Rumi",
+        "tradition": "Sufism"
+    },
+    {
+        "quote": "Ignore those that make you fearful and sad, that degrade you back towards disease and death.",
+        "author": "Rumi",
+        "tradition": "Sufism"
+    },
+    {
+        "quote": "Be like a tree and let the dead leaves drop.",
+        "author": "Rumi",
+        "tradition": "Sufism"
+    },
+    {
+        "quote": "The inspiration you seek is already within you. Be silent and listen.",
+        "author": "Rumi",
+        "tradition": "Sufism"
+    },
+    {
+        "quote": "What hurts you, blesses you. Darkness is your candle.",
+        "author": "Rumi",
+        "tradition": "Sufism"
+    },
+    {
+        "quote": "The only lasting beauty is the beauty of the heart.",
+        "author": "Rumi",
+        "tradition": "Sufism"
+    },
+    {
+        "quote": "Start a huge, foolish project, like Noah. It makes absolutely no difference what people think of you.",
+        "author": "Rumi",
+        "tradition": "Sufism"
+    },
+    {
+        "quote": "Don't turn away. Keep your gaze on the bandaged place. That's where the light enters you.",
+        "author": "Rumi",
+        "tradition": "Sufism"
+    },
+    {
+        "quote": "The moon stays bright when it doesn't avoid the night.",
+        "author": "Rumi",
+        "tradition": "Sufism"
+    },
+    {
+        "quote": "These pains you feel are messengers. Listen to them.",
+        "author": "Rumi",
+        "tradition": "Sufism"
+    },
+    {
+        "quote": "Wherever you are, and whatever you do, be in love.",
+        "author": "Rumi",
+        "tradition": "Sufism"
+    },
+    {
+        "quote": "You are not meant for crawling, so don't. You have wings. Learn to use them and fly.",
+        "author": "Rumi",
+        "tradition": "Sufism"
+    },
+    {
+        "quote": "Close your eyes. Fall in love. Stay there.",
+        "author": "Rumi",
+        "tradition": "Sufism"
+    },
+    {
+        "quote": "Love is the bridge between you and everything.",
+        "author": "Rumi",
+        "tradition": "Sufism"
+    }
+]
