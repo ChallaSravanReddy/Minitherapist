@@ -1,0 +1,20 @@
+{
+  "total_examples": 35808,
+  "emotion_distribution": {
+    "sad": 5000,
+    "stressed": 5000,
+    "happy": 5000,
+    "neutral": 5000,
+    "angry": 5000,
+    "overwhelmed": 3702,
+    "confused": 5000,
+    "lonely": 2106
+  },
+  "source_files": [
+    "emotion-emotion_69k.csv",
+    "train.csv",
+    "test.csv",
+    "validation.csv"
+  ],
+  "processing_date": "2025-12-03T23:42:25.732575"
+}
